@@ -1,6 +1,6 @@
 Get dataset for JAPE  
 ------
-######not my code. someone code, i fixed it.  
+###### not my code. someone code, i fixed it.  
 Fill two folders with files from [DBpedia](https://wiki.dbpedia.org/downloads-2016-10#datasets):  
 
 `en/` with files:  
